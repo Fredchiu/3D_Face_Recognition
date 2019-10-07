@@ -4,7 +4,7 @@ There are three 3D Sensing technologies based on computer vision.
 
 | Technology | Distance | Computing Power | Accuracy|Application|
 |------------|----------|-----------------|---------|-----------|
-|Structure Light| 0.3m~1.5m|High| 1% @ 0.5m|Face Recognition(Apple FaceID)|
+|Structure Light| 0.3m~1.5m|High| 1% @ 0.5m|Face Recognition(ex. Apple FaceID)|
 |Time of Flight| 0.3m~5m|Low|2% in 1.5m|Gesture Control / Body tracking|
 |Stereo| 0.3m~1.5m|High| 1% @ 0.5m| Face Recognition / Gesture Control|
 
