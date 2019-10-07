@@ -8,6 +8,9 @@ There are three 3D Sensing technologies based on computer vision.
 |Time of Flight| 0.3m~5m|Low|2% in 1.5m|Gesture Control / Body tracking|
 |Stereo| 0.3m~1.5m|High| 1% @ 0.5m| Face Recognition / Gesture Control|
 
+## Structure Light by Random dots
+<img src="https://github.com/Fredchiu/3D_structure_light/blob/master/3D_sensing.gif" width="50%" height="50%">
+
 ## Why 3D Sensing?
 For face recognition, there are lots of companys developed matured Algorithm for RGB 2D camera Face Recognition.<br>
 GiS focus on structure light due to higher accuracy which can also provide better face recognition accuracy. 
